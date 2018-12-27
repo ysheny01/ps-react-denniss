@@ -42,3 +42,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+12/27/2018
+node, git, new project ps-react-xx, git clone
+npm install create-react-app -g
+create-react-app ./
+npm run eject
+npm install -D react-docgen@2.14.0 chokidar@1.6.1 npm-run-all@4.0.2
+npm install -S highlight.js@9.10.0
+Get from demo: scripts/generateCompomentData.js
+
