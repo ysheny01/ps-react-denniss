@@ -53,3 +53,10 @@ npm install -D react-docgen@2.14.0 chokidar@1.6.1 npm-run-all@4.0.2
 npm install -S highlight.js@9.10.0
 Get from demo: scripts/generateCompomentData.js
 
+12/28/2018
+onChange = (event) =>
+react inline styles
+ag-Grid
+call REST
+
+
